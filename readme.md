@@ -15,9 +15,9 @@
 ---
 
 # 💻 About Me
-- 🚀 Full-Stack Developer (React, MERN, Django)  
-- 💡 Passionate about scalable apps & problem-solving  
-- 🎯 Constantly learning **AI/ML, Cloud & DevOps**  
+- 🚀 Full-Stack Developer (MERN, Django, Laravel, Java, GenAI)  
+- 💡 Curious about making things easy, scalable, and maintainable. 
+- 🎯 Constantly learning **AI/ML, DSA & DevOps**  
 
 ---
 
